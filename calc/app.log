@@ -1,0 +1,40 @@
+2025-03-03 21:51:31,577 - INFO - Adding 2 + 3 = 5
+2025-03-03 21:51:31,579 - INFO - Subtracting 10 - 5 = 5
+2025-03-03 21:51:31,580 - INFO - Multiplying 4 * 3 = 12
+2025-03-03 21:51:31,581 - INFO - Dividing 10 / 2 = 5.0
+2025-03-03 21:51:31,582 - ERROR - Division by zero attempted.
+2025-03-03 21:52:48,144 - INFO - Adding 2 + 3 = 5
+2025-03-03 21:52:48,147 - INFO - Subtracting 10 - 5 = 5
+2025-03-03 21:52:48,148 - INFO - Multiplying 4 * 3 = 12
+2025-03-03 21:52:48,149 - INFO - Dividing 10 / 2 = 5.0
+2025-03-03 21:52:48,151 - ERROR - Division by zero attempted.
+2025-03-03 21:54:18,120 - INFO - Adding 2 + 3 = 5
+2025-03-03 21:54:18,121 - INFO - Subtracting 10 - 5 = 5
+2025-03-03 21:54:18,121 - INFO - Multiplying 4 * 3 = 12
+2025-03-03 21:54:18,122 - INFO - Dividing 10 / 2 = 5.0
+2025-03-03 21:54:18,122 - ERROR - Division by zero attempted.
+2025-03-03 21:54:37,700 - INFO - Adding 2 + 3 = 5
+2025-03-03 21:54:37,701 - INFO - Subtracting 10 - 5 = 5
+2025-03-03 21:54:37,702 - INFO - Multiplying 4 * 3 = 12
+2025-03-03 21:54:37,703 - INFO - Dividing 10 / 2 = 5.0
+2025-03-03 21:54:37,704 - ERROR - Division by zero attempted.
+2025-03-03 21:56:22,833 - INFO - Adding 2 + 3 = 5
+2025-03-03 21:56:22,835 - INFO - Subtracting 10 - 5 = 5
+2025-03-03 21:56:22,837 - INFO - Multiplying 4 * 3 = 12
+2025-03-03 21:56:22,838 - INFO - Dividing 10 / 2 = 5.0
+2025-03-03 21:56:22,839 - ERROR - Division by zero attempted.
+2025-03-03 21:56:44,709 - INFO - Adding 2 + 3 = 5
+2025-03-03 21:56:44,711 - INFO - Subtracting 10 - 5 = 5
+2025-03-03 21:56:44,713 - INFO - Multiplying 4 * 3 = 12
+2025-03-03 21:56:44,715 - INFO - Dividing 10 / 2 = 5.0
+2025-03-03 21:56:44,717 - ERROR - Division by zero attempted.
+2025-03-03 21:58:20,153 - INFO - Adding 2 + 3 = 5
+2025-03-03 21:58:20,154 - INFO - Subtracting 10 - 5 = 5
+2025-03-03 21:58:20,155 - INFO - Multiplying 4 * 3 = 12
+2025-03-03 21:58:20,156 - INFO - Dividing 10 / 2 = 5.0
+2025-03-03 21:58:20,156 - ERROR - Division by zero attempted.
+2025-03-03 21:58:29,184 - INFO - Adding 2 + 3 = 5
+2025-03-03 21:58:29,187 - INFO - Subtracting 10 - 5 = 5
+2025-03-03 21:58:29,188 - INFO - Multiplying 4 * 3 = 12
+2025-03-03 21:58:29,189 - INFO - Dividing 10 / 2 = 5.0
+2025-03-03 21:58:29,190 - ERROR - Division by zero attempted.
