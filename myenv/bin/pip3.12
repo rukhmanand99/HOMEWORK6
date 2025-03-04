@@ -1,4 +1,4 @@
-#!/home/rukhmanand/IS601/Homework6/myenv/bin/python3
+#!/home/rukhmanand/IS601/Homework6/myenv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
