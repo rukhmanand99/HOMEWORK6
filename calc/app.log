@@ -38,3 +38,8 @@
 2025-03-03 21:58:29,188 - INFO - Multiplying 4 * 3 = 12
 2025-03-03 21:58:29,189 - INFO - Dividing 10 / 2 = 5.0
 2025-03-03 21:58:29,190 - ERROR - Division by zero attempted.
+2025-03-03 22:18:20,332 - INFO - Adding 2 + 3 = 5
+2025-03-03 22:18:20,336 - INFO - Subtracting 10 - 5 = 5
+2025-03-03 22:18:20,338 - INFO - Multiplying 4 * 3 = 12
+2025-03-03 22:18:20,340 - INFO - Dividing 10 / 2 = 5.0
+2025-03-03 22:18:20,345 - ERROR - Division by zero attempted.
